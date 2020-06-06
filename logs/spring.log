@@ -1,0 +1,3 @@
+2020-06-06 08:56:16.499  INFO 704 --- [main] me.dave.Application                      : Starting Application on Daveui-MacBook-Pro.local with PID 704 (/Users/davekim/IdeaProjects/spring-boot-example_0603/target/classes started by davekim in /Users/davekim/IdeaProjects/spring-boot-example_0603)
+2020-06-06 08:56:16.512  INFO 704 --- [main] me.dave.Application                      : The following profiles are active: base
+2020-06-06 08:56:18.051  INFO 704 --- [main] me.dave.Application                      : Started Application in 2.702 seconds (JVM running for 3.589)
