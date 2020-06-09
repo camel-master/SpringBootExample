@@ -11,6 +11,6 @@ public class Application {
 
         SpringApplication app = new SpringApplication(Application.class);
         app.setWebApplicationType(WebApplicationType.NONE);
-        app.run();
+        app.run(args);
     }
 }

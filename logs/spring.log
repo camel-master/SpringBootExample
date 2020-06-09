@@ -1,3 +1,16 @@
-2020-06-06 08:56:16.499  INFO 704 --- [main] me.dave.Application                      : Starting Application on Daveui-MacBook-Pro.local with PID 704 (/Users/davekim/IdeaProjects/spring-boot-example_0603/target/classes started by davekim in /Users/davekim/IdeaProjects/spring-boot-example_0603)
-2020-06-06 08:56:16.512  INFO 704 --- [main] me.dave.Application                      : The following profiles are active: base
-2020-06-06 08:56:18.051  INFO 704 --- [main] me.dave.Application                      : Started Application in 2.702 seconds (JVM running for 3.589)
+2020-06-10 08:09:58.275  INFO 994 --- [main] me.dave.Application                      : Starting Application on Daveui-MacBook-Pro.local with PID 994 (/Users/davekim/IdeaProjects/spring-boot-example_0603/target/classes started by davekim in /Users/davekim/IdeaProjects/spring-boot-example_0603)
+2020-06-10 08:09:58.290 DEBUG 994 --- [main] me.dave.Application                      : Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-06-10 08:09:58.291  INFO 994 --- [main] me.dave.Application                      : The following profiles are active: test
+2020-06-10 08:09:59.828  INFO 994 --- [main] me.dave.Application                      : Started Application in 3.018 seconds (JVM running for 3.855)
+2020-06-10 08:10:33.117  INFO 1038 --- [main] me.dave.Application                      : Starting Application on Daveui-MacBook-Pro.local with PID 1038 (/Users/davekim/IdeaProjects/spring-boot-example_0603/target/classes started by davekim in /Users/davekim/IdeaProjects/spring-boot-example_0603)
+2020-06-10 08:10:33.126 DEBUG 1038 --- [main] me.dave.Application                      : Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-06-10 08:10:33.126  INFO 1038 --- [main] me.dave.Application                      : The following profiles are active: test
+2020-06-10 08:10:35.006  INFO 1038 --- [main] me.dave.Application                      : Started Application in 3.206 seconds (JVM running for 4.211)
+2020-06-10 08:11:26.701  INFO 1048 --- [main] me.dave.Application                      : Starting Application on Daveui-MacBook-Pro.local with PID 1048 (/Users/davekim/IdeaProjects/spring-boot-example_0603/target/classes started by davekim in /Users/davekim/IdeaProjects/spring-boot-example_0603)
+2020-06-10 08:11:26.709 DEBUG 1048 --- [main] me.dave.Application                      : Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-06-10 08:11:26.709  INFO 1048 --- [main] me.dave.Application                      : The following profiles are active: test
+2020-06-10 08:11:28.952  INFO 1048 --- [main] me.dave.Application                      : Started Application in 3.484 seconds (JVM running for 4.404)
+2020-06-10 08:11:41.426  INFO 1053 --- [main] me.dave.Application                      : Starting Application on Daveui-MacBook-Pro.local with PID 1053 (/Users/davekim/IdeaProjects/spring-boot-example_0603/target/classes started by davekim in /Users/davekim/IdeaProjects/spring-boot-example_0603)
+2020-06-10 08:11:41.440 DEBUG 1053 --- [main] me.dave.Application                      : Running with Spring Boot v2.2.7.RELEASE, Spring v5.2.6.RELEASE
+2020-06-10 08:11:41.441  INFO 1053 --- [main] me.dave.Application                      : The following profiles are active: test
+2020-06-10 08:11:42.996  INFO 1053 --- [main] me.dave.Application                      : Started Application in 2.821 seconds (JVM running for 3.656)
